@@ -15,7 +15,7 @@ Esta é uma API REST para gerenciamento de livros, construída com **Node.js**, 
 Primeiro, clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/paulofsnunes/tag-livros-api.git
+git clone https://github.com/paulofsnunes/tag-livros
 cd tag-livros-api
 ```
 
@@ -26,8 +26,7 @@ docker-compose up
 #### Acesse a API
 
 A API estará disponível em
-http://localhost:3000
-http://localhost:3000/api/livros
+http://localhost:3000 || http://localhost:3000/api/livros
 
 #### Para parar os contêineres, execute:
 
